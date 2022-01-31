@@ -10,4 +10,4 @@ Cahier des charges :
   
   https://github.com/FCX-Web/21-05-So-Pekocko/blob/main/sopekocko_note-de-cadrage.pdf
   
-Screencast : 
+Screencast : https://www.youtube.com/watch?v=SWt41vmxh2k
